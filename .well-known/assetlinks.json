@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.sonar_app",
+            "sha256_cert_fingerprints": [
+                "88:B0:52:08:C1:B2:0A:D4:A2:6C:6F:9D:4D:9A:67:4B:0F:2E:0F:5E:0F:41:DD:64:E9:D6:12:16:61:35:FA:8F"
+            ]
+        }
+    }
+]
